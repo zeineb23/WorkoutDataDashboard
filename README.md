@@ -34,9 +34,9 @@ Provide insights into workout trends and patterns.
 
 ## Screenshots
 Overview
-![Image1](image/visualize1.png)
-![Image2](image/visualize2.png)
-![Image3](image/visualize3.png)
+![Image1](image/visualization1.png)
+![Image2](image/visualization2.png)
+![Image3](image/visualization3.png)
 
 ## Dataset
 The dataset used in this project contains workout data including exercise types, body parts targeted, ratings, and other relevant information.
